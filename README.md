@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarvajeet12&show_icons=true&locale=en" alt="sarvajeet12" /></p>
 
-<p><img align="center" src="https://img.icons8.com/material-rounded/48/000000/github.png?user=sarvajeet12&" alt="sarvajeet12" /></p>
+<p><img align="center" src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="sarvajeet12" /><a href="https://github.com/sarvajeet12">sarvajeet12</a></p>
