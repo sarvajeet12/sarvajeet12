@@ -8,7 +8,9 @@
 
 - 📫 How to reach me : **sarvajeetshahktn@gmail.com**
 
-- 📄 Know about my experiences : [https://drive.google.com/file/d/1LksiHnfhdk8s022b7U_CTefyTrChaB1b/view?usp=sharing](https://drive.google.com/file/d/1LksiHnfhdk8s022b7U_CTefyTrChaB1b/view?usp=sharing)
+- 🚀 Portfolio : (https://my-resume-xi-eosin.vercel.app/](https://my-resume-xi-eosin.vercel.app/)
+
+- 📄 Resume : [https://drive.google.com/file/d/1LksiHnfhdk8s022b7U_CTefyTrChaB1b/view?usp=sharing](https://drive.google.com/file/d/1LksiHnfhdk8s022b7U_CTefyTrChaB1b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
