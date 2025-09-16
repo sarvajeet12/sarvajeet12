@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Web Developer | MERN Stack Enthusiast | Passionate About Building Scalable & Secure Web Applications</h3>
 
 
-- 🌱 I’m currently learning : **Next.j**
+- 🌱 I’m currently learning : **Next.js**
 
 - 💬 Ask me about : **I'm Sarvajeet Lal Shah, a passionate Full Stack Web Developer skilled in the MERN stack and modern web technologies. I enjoy building scalable, secure, and user-friendly web applications that solve real-world problems.**
 
