@@ -6,7 +6,7 @@
 
 - 💬 Ask me about : **I'm Sarvajeet Lal Shah, a passionate Full Stack Web Developer skilled in the MERN stack and modern web technologies. I enjoy building scalable, secure, and user-friendly web applications that solve real-world problems.**
 
-- 📫 How to reach me : **sarvajeetshahktn@gmail.com**
+- 📫 How to reach me: **sarvajeetshahktn@gmail.com**
 
 - 🌟 Portfolio : [https://my-resume-xi-eosin.vercel.app/](https://my-resume-xi-eosin.vercel.app/)
 
